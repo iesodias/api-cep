@@ -14,6 +14,7 @@ metadata:
 
   annotations:
     github.com/project-slug: iesodias/api-cep
+    backstage.io/techdocs-ref: dir:.
 
   links:
     - url: https://github.com/iesodias/api-cep
